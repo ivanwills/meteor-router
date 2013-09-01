@@ -8,3 +8,4 @@ vim.sh
 temp*
 errors.err
 .build*
+.npm*
